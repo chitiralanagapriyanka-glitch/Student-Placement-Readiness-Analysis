@@ -8,6 +8,8 @@ The dataset contains student related information required for placement readines
 ## Current Progress
 - Dataset collection completed
 - Data uploaded to GitHub
+- Exploring datset completed
+- File(ipynb) uploaded in GitHub
 
 ## Upcoming Work
 - Data cleaning
