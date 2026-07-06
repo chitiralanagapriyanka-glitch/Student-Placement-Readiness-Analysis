@@ -12,5 +12,4 @@ The dataset contains student related information required for placement readines
 ## Upcoming Work
 - Data cleaning
 - Exploratory Data Analysis
-- Machine Learning model development
 - Placement readiness prediction
