@@ -16,5 +16,6 @@ The dataset contains student related information required for placement readines
 - Visualizations file uploaded
 
 ## Upcoming Work
+- Dashboards
 - Insights
 - Placement readiness prediction
