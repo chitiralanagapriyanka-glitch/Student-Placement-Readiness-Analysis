@@ -12,7 +12,9 @@ The dataset contains student related information required for placement readines
 - File(ipynb) uploaded in GitHub
 - Data cleaning completed
 - file uploaded
+- Exploratory Data Analysis
+- Visualizations file uploaded
 
 ## Upcoming Work
-- Exploratory Data Analysis
+- Insights
 - Placement readiness prediction
