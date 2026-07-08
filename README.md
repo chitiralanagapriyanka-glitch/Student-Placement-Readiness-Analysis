@@ -14,8 +14,7 @@ The dataset contains student related information required for placement readines
 - file uploaded
 - Exploratory Data Analysis
 - Visualizations file uploaded
+- Created Dashboards
 
 ## Upcoming Work
-- Dashboards
-- Insights
 - Placement readiness prediction
