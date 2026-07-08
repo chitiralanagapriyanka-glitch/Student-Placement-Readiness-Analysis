@@ -15,6 +15,8 @@ The dataset contains student related information required for placement readines
 - Exploratory Data Analysis
 - Visualizations file uploaded
 - Created Dashboards
+- Live dashboard using streamlit
+- Streamlit App: https://student-placement-readiness-analysis-7hu9ywg7ty2qpvn2d2tt6q.streamlit.app/
 
 ## Upcoming Work
 - Placement readiness prediction
